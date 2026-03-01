@@ -136,6 +136,4 @@ Machine learning can enhance preventive screening by identifying subtle, interac
 
 ---
 
-## 🚀 How to Run
 
-1. Clone repository:
